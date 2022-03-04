@@ -12,4 +12,4 @@
    Feito seguindo um video no youtube [Felipe Rocha • dicasparadevs](https://www.youtube.com/watch?v=0bNeKAzVvlE)
 
    Tecnologias utilizadas: HTML, CSS e Javascript
->>>>>>> c0f66fa8621e88f2a635e84cd7dbacac5b9fa35c
+
