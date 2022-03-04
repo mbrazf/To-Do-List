@@ -9,7 +9,5 @@
 
 -   Tecnologias utilizadas: HTML, CSS e Javascript
 
-   Feito seguindo um video no youtube [Felipe Rocha • dicasparadevs](https://www.youtube.com/watch?v=0bNeKAzVvlE)
 
-   Tecnologias utilizadas: HTML, CSS e Javascript
 
